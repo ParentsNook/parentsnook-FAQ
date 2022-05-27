@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to our FAQ Page
+
+Through Nooks we are trying to create neighborhood micro-communities with parent-care spaces and open ended childcare spaces where parents can work/socialize while children play openended. We're making use of existing spaces like cafes, coworking spaces, backyards, and community centers to achieve this and thus supporting these small businesses, communities, and public infrastructure facilities with our feet and dollars.  We believe that kids are an integral part of our day to day life and we can operate in a better way as a society to achieve it. Taking your kids to a meeting, finishing up your project without the need to find alternate childcare should be all easier and within your community. We are trying to connect the dots.
+
 
 You can use the [editor on GitHub](https://github.com/ParentsNook/parents_nook.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
